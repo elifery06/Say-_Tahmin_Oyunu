@@ -1,0 +1,13 @@
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\netcoreapp3.1\sayitahminoyunu.exe
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\netcoreapp3.1\sayitahminoyunu.deps.json
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\netcoreapp3.1\sayitahminoyunu.runtimeconfig.json
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\netcoreapp3.1\sayitahminoyunu.runtimeconfig.dev.json
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\netcoreapp3.1\sayitahminoyunu.dll
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\bin\Debug\netcoreapp3.1\sayitahminoyunu.pdb
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.csprojAssemblyReference.cache
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.AssemblyInfoInputs.cache
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.AssemblyInfo.cs
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.dll
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.pdb
+C:\Users\ELİF\Source\Repos\sayitahminoyunu\sayitahminoyunu\obj\Debug\netcoreapp3.1\sayitahminoyunu.genruntimeconfig.cache
